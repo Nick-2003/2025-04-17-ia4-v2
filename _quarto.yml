@@ -1,0 +1,9 @@
+# Set HTML formats
+format:
+  html:
+    toc: true # Table of contents
+    toc-location: left # Location of table of contents
+    number-sections: true # Numbered sections
+    fig_caption: true # Figure captions
+    embed-resources: true # Embed images, scripts into document
+    docx: default # Output with DOCX as default
